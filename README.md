@@ -4,7 +4,7 @@
 
 社群：[Threads](https://www.threads.com/@twimm_official_tw)・[Discord](https://discord.gg/SQmFgakrUf)・[Instagram](https://www.instagram.com/twimm_official_tw)
 
-單一網頁 3D 遊戲（Three.js）。**直接點擊[連結](https://twimm.netlify.app)即可遊玩**（需要網路載入 Three.js CDN）。
+單一網頁 3D 遊戲（Three.js）。**直接點擊 [連結](https://twimm.netlify.app) 即可遊玩**
 
 ## 玩法
 - **故事模式：** 2027/01/01 08:00 從**花蓮火車站**出發，開著火箭飛天車「TWIMCAR R1」**環島一圈**，經過 29 個點（早餐店、特技表演、**東大門夜市**、七星潭、池上、南迴、墾丁、高雄、台南、阿里山、台中、新竹、桃園、台北 101、**頭城烏石港（龜山島）、礁溪溫泉、宜蘭幾米廣場、蘇澳冷泉、清水斷崖**…），最後回到**花蓮火車站衝過終點線**。開新旅程時可以選**往南**或**往北**出發。主角稻撤入庫（日本賽車手）與好友露邊挺徹同行。沒有暴力、沒有犯罪、沒有警察追逐。
