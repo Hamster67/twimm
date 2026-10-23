@@ -1,6 +1,6 @@
 # Taiwan in my mind!（TWIMM）— 飛天車環島
 
-版本：**1.0 Beta (1)**
+版本：**1.0 Beta (4)**
 
 社群：[Threads](https://www.threads.com/@twimm_official_tw)・[Discord](https://discord.gg/SQmFgakrUf)・[Instagram](https://www.instagram.com/twimm_official_tw)
 
