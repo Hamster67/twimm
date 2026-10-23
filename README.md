@@ -76,7 +76,7 @@
 - 少數網路環境（公司、學校、部分手機網路）可能連不上。
 
 ## 模組（Mod）
-- 用 **TWIMM Mod Config Editor**（`TWIMM_Mod_Config_Editor.html`，也可以從「設定 → 模組」打開）做模組，按「匯出模組 .json」存檔。
+- 用 [TWIMM Mod Config Editor](TWIMM_Mod_Config_Editor.html) 做模組，按「匯出模組 .json」存檔。
 - 遊戲「設定 → 模組 → 📂 上傳模組」選檔案，在清單選它，按「重新載入以套用」；選「不使用模組」就回到原本的遊戲。
 - 模組可以改：
   - **主畫面**：小標題、大標題、說明、開始提示文字、主色、背景圖
