@@ -85,7 +85,7 @@
   - **車子顏色**
   - **地圖**：在台灣地圖上用 s（沿著路線）／lat（離路中心）放方塊、圓柱、告示牌、樹、巨型坡道；或勾「關閉原本地圖」變成空白地圖，用 x／z 自己做（單人遊戲會直接進入，沒有任務、不存檔，R 回出發點）
 - 模組存在瀏覽器裡（約 4 MB 上限），背景圖會自動壓縮。
-- 範例模組：`[颱風天，飛天車可能被吹走](https://github.com/Hamster67/twimm/blob/main/颱風天，飛天車可能被吹走.twimm-mod.json)`
+- 範例模組：[颱風天，飛天車可能被吹走](https://github.com/Hamster67/twimm/blob/main/颱風天，飛天車可能被吹走.twimm-mod.json)
 
 ## 工作人員
 主選單「工作人員」：Hamster67、ywe0408（Discord）。
