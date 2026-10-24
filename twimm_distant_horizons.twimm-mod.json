@@ -1,0 +1,47 @@
+{
+  "format": "twimm-mod",
+  "version": 1,
+  "id": "twimm_distant_horizons",
+  "name": "TWIMM · 遠方地平線（超遠視距）",
+  "author": "TWIMM",
+  "description": "看得超級遠！整座台灣建一張遠景地形，從海岸一眼望穿中央山脈，遠方的公路一路蜿蜒到地平線。靈感來自 Minecraft 模組 Distant Horizons。",
+  "title": {
+    "eyebrow": "MOD · 超遠視距 · 30 公里",
+    "logo": "TWIMM\n遠方地平線",
+    "tagline": "霧散了。站在花東海岸，往西看得到整排中央山脈；開上山，海岸線一路延伸到天邊。",
+    "pressStart": "按下 Enter 出發，看得更遠",
+    "accent": "#9fd8ff",
+    "background": "",
+    "dim": 0.55
+  },
+  "loading": {
+    "enabled": false,
+    "logo": "",
+    "subtitle": "",
+    "tip": "",
+    "background": "",
+    "bgColor": "#16314a",
+    "barColor": "#9fd8ff"
+  },
+  "weather": {
+    "mode": "clear",
+    "hour": null,
+    "freeze": false,
+    "wind": 2
+  },
+  "car": {},
+  "render": {
+    "distantHorizons": {
+      "enabled": true,
+      "distance": 30000,
+      "quality": "high"
+    }
+  },
+  "world": {
+    "blank": false,
+    "ground": { "color": "#6f9a4a", "size": 3000, "grid": true },
+    "sky": "dusk",
+    "spawn": { "x": 0, "z": 0, "h": 0 },
+    "objects": []
+  }
+}
