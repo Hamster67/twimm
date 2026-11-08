@@ -1,23 +1,22 @@
 # Taiwan in my mind!（TWIMM）— 飛天車環島
 
-版本：**Pre-Release 2.2**
+版本：**Pre-Release 2.3**
 
 社群：[Threads](https://www.threads.com/@twimm_official_tw)・[Discord](https://discord.gg/SQmFgakrUf)・[Instagram](https://www.instagram.com/twimm_official_tw)
 
 [服務條款](terms.html)・[隱私權政策](privacy.html)
 
-單一網頁 3D 遊戲（Three.js），開著火箭飛天車環島台灣。線上玩：**https://twimm.netlify.app**（需要網路；也可以直接打開 `index.html`，但這樣沒辦法登入同步存檔）。
+單一網頁 3D 遊戲（Three.js），開著火箭飛天車環島台灣。線上玩：**https://twimm.netlify.app**
+
+## Pre-Release 2.3 新功能
+- **🎆 新的載入畫面**：8-bit 插畫——跨年夜的台北 101、台北雙子星、台北世貿、陶朱隱園，後面是象山
+  - 夜空一直放煙火，101 塔身每一節往外噴出火花，每一輪換不同顏色
+  - 馬路上有汽車、公車、遊覽車、機車和行人經過，路口有紅綠燈
+  - 從主畫面進入遊戲時有 8-bit 煙火音效
+  - 畫面只留插畫、進度條和百分比
+- 修正：按「回到主畫面」時，暫停畫面會疊在載入畫面上面
 
 ## Pre-Release 2.2 新功能
-- **🗺 真 · 台灣地圖（Pre-Release 3 搶先預覽）**：遊戲裡藏了一個入口（提示：盯著版本號看，多點幾下），找到就能先玩 Pre-Release 3 的新地圖
-  - **真實的台灣，縮成三分之一**：真實地形，加上 OpenStreetMap 的真實道路（國道、快速道路、省道、縣道、市區主要道路）
-  - **隧道** 和 **市區高架道路**、國道交流道，路口有斑馬線和停止線
-  - 城市、建築、行道樹，還有 **台北 101**（晚上依星期幾變色）、85 大樓、赤崁樓、鵝鑾鼻燈塔
-  - **故事模式整個搬過去**：30 個任務點和 2 個隱藏點放在真實的位置旁邊，從花蓮火車站出發，順序隨你；必要的點都完成後回到花蓮火車站就通關
-  - **導航**：小地圖上的綠色路線、上方導航面板（例：「600 公尺後　左轉　中美路」）、語音提示（「前方三百公尺，請向右轉進入…」「請走右側匝道」），偏離路線會重新規劃
-  - 手機（B）的任務 app 可以選要導航到哪一點
-  - 存檔跟原本的地圖分開，不會影響原本的進度
-  - 這是 **預覽版，並非最終成果**：還沒有車流、行人、多人遊戲，可能會有破圖或不完整的地方
 - **👾 8-bit 載入畫面回來了**：點陣字標題、一格一格的進度條，進度條上有一台像素飛天車；載入完成時「READY!」跳出來，整個畫面碎成方塊消失
 - **☁ 連動完成**：用帳號登入、第一次同步完成後，會跳出 8-bit 的「連動完成！」，顯示登入的帳號和存檔狀況
 - 修正：全螢幕對白播放時按 Esc，會連設定畫面一起打開
@@ -153,8 +152,7 @@
 - 官方模組：**TWIMM · 颱風天，飛天車也有可能被吹走！**（颱風天）、**TWIMM · 遠方地平線**（30 公里超遠視距）。
 
 ## 地圖資料
-- 「真 · 台灣地圖」（Pre-Release 3 預覽）的道路資料來自 **© [OpenStreetMap](https://www.openstreetmap.org/copyright) 貢獻者**，依 [Open Database License（ODbL）](https://opendatacommons.org/licenses/odbl/) 授權；遊戲畫面上也有標示。
-- 地形高度資料來自公開的數值地形資料（SRTM、GMTED2010、ETOPO1 等）。
+- 部分地圖資料 © [OpenStreetMap](https://www.openstreetmap.org/copyright) 貢獻者，依 [ODbL](https://opendatacommons.org/licenses/odbl/) 授權。
 
 ## 工作人員
 主選單「工作人員」：Hamster67、ywe0408（Discord）。
